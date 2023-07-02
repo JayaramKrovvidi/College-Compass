@@ -1,0 +1,6 @@
+[submodule "college-compass-frontend"]
+	path = college-compass-frontend
+	url = https://github.com/JayaramKrovvidi/college-compass-frontend.git
+[submodule "college-compass-backend"]
+	path = college-compass-backend
+	url = https://github.com/JayaramKrovvidi/college-compass-backend.git
